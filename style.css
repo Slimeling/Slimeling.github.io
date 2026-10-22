@@ -1,0 +1,37 @@
+body {
+    background-image: url("bilder/mtgcardbackground.png");
+    background-size: 14.2%;
+    background-color: black;
+    padding: 1rem;
+    text-align: center;
+}
+
+
+h1 {
+    background-color: #f0f0f06b;
+    width: fit-content;
+    margin: auto;
+    padding: 10px
+}
+
+
+h2, h3, h4, h5, h6, p {
+    background-color: #f0f0f06b;
+    width: fit-content;
+    margin: auto;
+    padding: 15px
+}
+
+
+.Overskrift {
+    padding-bottom: 50px
+}
+
+
+
+.Commander {
+    padding-bottom: 30px
+}
+
+
+
